@@ -13,5 +13,9 @@ public class Apple {
 	public boolean getRipe(){
 		return ripe;
 	}
+	
+	public int getNumStone(){
+		return numStone;
+	}
 	  
 }
